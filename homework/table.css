@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    margin: 60-x;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+}
+
+th{color: white }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+td{
+    background-color: azure;
+}
+tr{height: 35px;}
+.one{background-color: rgb(5, 41, 141);}
+.one2{background-color: aquamarine;}
